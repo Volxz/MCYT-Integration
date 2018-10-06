@@ -1,0 +1,4 @@
+#You must put your api key here. Follow the instructions here to obtain one: https://developers.google.com/youtube/v3/getting-started
+yt_api_key:
+#You must put your api key here. Follow the instructions here to obtain one: https://www.twitch.tv/settings/connections
+twitch_api_key:

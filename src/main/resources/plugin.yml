@@ -1,0 +1,19 @@
+name: MCYTIntegration
+version: 1.0.0
+main: com.exclnetworks.MCYTIntegration
+description: Send everyone online a message when a youtuber uploads a video or a streamer starts streaming.
+author: Nexus
+website: https://exclnetworks.com
+commands:
+  ytset:
+    description: Set a player's youtube ID
+  twitchset:
+    description: Set a player's twitch ID
+  ytremove:
+    description: Remove a player's youtube ID
+  twitchremove:
+    description: Remove a player's twitch ID
+  youtubers:
+    description: List all youtubers and their status
+  streamers:
+    description: List all streamers and their status
